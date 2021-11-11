@@ -1,4 +1,6 @@
-# DETECT BITCOIN ADDRESSES INVOLVED IN RANSOMWARE TRANSACTIONS
+#  BITCOIN ADDRESS DETECTION
+![bitcoin-3089728_1920](https://user-images.githubusercontent.com/90555069/141302997-084bf37b-8082-4361-9f7e-edc7882a44a3.jpeg)
+
 ## Introduction
 Bitcoin is a cryptocurrency based on peer-to-peer technology that involves no central authority like a bank.
 For all intents and purposes, transactions done over bitcoin cannot be traced. Now you might understand, why this is perfect for scammers.
