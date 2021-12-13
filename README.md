@@ -8,7 +8,7 @@ In this project, we will use AI to analyse how these transactions take place and
 ## Problem statement
 Given a bitcoin address along with some meta-data pertaining to that address, we are challenged to predict if that address has been used to receive ransoms in the past.
 ## Data Description
-The dataset that to be tested is from the [UCI Machine Learning Repository](https://archive-beta.ics.uci.edu) that contains parsed Bitcoin transaction graphs from 2011 until 2018 This data-set contains labelled data of transactions and if whether they are white or if they belong to a class of Ransomware.
+The dataset that to be tested is from the [UCI Machine Learning Repository](https://archive-beta.ics.uci.edu/ml/datasets/bitcoinheistransomwareaddressdataset) that contains parsed Bitcoin transaction graphs from 2011 until 2018 This data-set contains labelled data of transactions and if whether they are white or if they belong to a class of Ransomware.
 Source: https://archive-beta.ics.uci.edu
 ## Tools
 - Software Platform :Jupyter Notebook
