@@ -14,10 +14,10 @@ The dataset that to be tested is from the [UCI Machine Learning Repository](http
 - Software Platform :Jupyter Notebook
 - Programming Language: Python
 - Python Libraries:
-    - Statistics libraries:
+    - Statistics libraries
         - Sklearn
         - Statsmodels
-    - Data manipulation libraries:
+    - Data manipulation libraries
         - Pandas
         - Numpy
     - Visualization libraries
